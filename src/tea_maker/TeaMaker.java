@@ -1,11 +1,12 @@
+package tea_maker;
 /*
- *    Copyright (c) The League of Amazing Programmers 2013-2017
+ *    Copyright (c) The League of Amazing Programmers 2013-2019
  *    Level 1
  */
 
 public class TeaMaker {
 
-	/* Figure out how to make a cup of tea using the classes below */
+	/* Figure out how to make a cup of tea in this runner class, using the other classes below */
 
 }
 
